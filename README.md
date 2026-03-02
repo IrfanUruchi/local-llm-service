@@ -56,8 +56,6 @@ docker run \
 
 ## Environment variables
 
-## ⚙ Environment Variables
-
 | Variable       | Default                     | Description                    |
 |---------------|-----------------------------|--------------------------------|
 | MODEL_PATH     | /models/model.gguf          | Path to GGUF model             |
